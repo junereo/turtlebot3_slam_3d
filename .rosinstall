@@ -17,4 +17,4 @@
     version: v0.81
 - git:
     local-name: darknet_ros
-    uri: https://github.com/Affonso-Gui/darknet_ros.git --recursive
+    uri: https://github.com/junereo/darknet_ros.git --recursive
